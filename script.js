@@ -6,6 +6,6 @@ let student={
 	name:"arindam"
 }
 
-let ans=getKeys(student);
+let ans=student.getKeys();
 
 console.log(ans);
