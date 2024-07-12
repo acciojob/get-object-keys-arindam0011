@@ -8,4 +8,4 @@ let student={
 
 let ans=getKeys(student);
 
-return ans;
+console.log(ans);
