@@ -5,4 +5,4 @@ let student={
 
 let ans=getKeys(student);
 
-console.log(ans)
+return ans;
